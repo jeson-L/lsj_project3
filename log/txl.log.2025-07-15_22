@@ -1,0 +1,87 @@
+2025-07-15 22:36:08 【utils_get_data.py get_data 读取到文件数据为[{'name': 'jie', 'username': 'anny', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'anny'}, {'name': 'zhang', 'username': 'san', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'san'}]】
+2025-07-15 22:36:29 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:36:29 【utils_get_element.py click 正在对该（('id', 'com.android.contacts:id/left_button')）元素进行单击】
+2025-07-15 22:36:29 【utils_get_element.py find_element 正在通过（id）方法，找单个（com.android.contacts:id/left_button）元素】
+2025-07-15 22:36:30 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("姓氏")')）元素进行进行输入jie】
+2025-07-15 22:36:30 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("姓氏")）元素】
+2025-07-15 22:36:32 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("名字")')）元素进行进行输入anny】
+2025-07-15 22:36:32 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("名字")）元素】
+2025-07-15 22:36:34 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电话")')）元素进行进行输入13845678911】
+2025-07-15 22:36:34 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电话")）元素】
+2025-07-15 22:36:36 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电子邮件")')）元素进行进行输入123@qq.com】
+2025-07-15 22:36:36 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电子邮件")）元素】
+2025-07-15 22:36:37 【utils_get_element.py click 正在对该（('-android uiautomator', 'new UiSelector().text("保存")')）元素进行单击】
+2025-07-15 22:36:37 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("保存")）元素】
+2025-07-15 22:36:42 【utils_get_element.py keycode 执行手机按键操作4】
+2025-07-15 22:36:42 【utils_get_element.py more_text 正在获取（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本】
+2025-07-15 22:36:42 【utils_get_element.py find_elements 正在通过（-android uiautomator）方法，找多个（new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")）元素】
+2025-07-15 22:36:43 【utils_get_element.py more_text 获取到（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本为anny jie】
+2025-07-15 22:36:43 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:36:43 【utils_get_element.py click 正在对该（('id', 'com.android.contacts:id/left_button')）元素进行单击】
+2025-07-15 22:36:43 【utils_get_element.py find_element 正在通过（id）方法，找单个（com.android.contacts:id/left_button）元素】
+2025-07-15 22:39:44 【utils_get_data.py get_data 读取到文件数据为[{'name': 'jie', 'username': 'anny', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'anny'}, {'name': 'zhang', 'username': 'san', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'san'}]】
+2025-07-15 22:40:05 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:40:05 【utils_get_element.py click 正在对该（('id', 'com.android.contacts:id/left_button')）元素进行单击】
+2025-07-15 22:40:05 【utils_get_element.py find_element 正在通过（id）方法，找单个（com.android.contacts:id/left_button）元素】
+2025-07-15 22:40:07 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("姓氏")')）元素进行进行输入jie】
+2025-07-15 22:40:07 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("姓氏")）元素】
+2025-07-15 22:40:09 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("名字")')）元素进行进行输入anny】
+2025-07-15 22:40:09 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("名字")）元素】
+2025-07-15 22:40:10 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电话")')）元素进行进行输入13845678911】
+2025-07-15 22:40:10 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电话")）元素】
+2025-07-15 22:40:12 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电子邮件")')）元素进行进行输入123@qq.com】
+2025-07-15 22:40:12 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电子邮件")）元素】
+2025-07-15 22:40:13 【utils_get_element.py click 正在对该（('-android uiautomator', 'new UiSelector().text("保存")')）元素进行单击】
+2025-07-15 22:40:13 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("保存")）元素】
+2025-07-15 22:40:18 【utils_get_element.py keycode 执行手机按键操作4】
+2025-07-15 22:40:18 【utils_get_element.py more_text 正在获取（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本】
+2025-07-15 22:40:18 【utils_get_element.py find_elements 正在通过（-android uiautomator）方法，找多个（new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")）元素】
+2025-07-15 22:40:19 【utils_get_element.py more_text 获取到（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本为anny jie】
+2025-07-15 22:40:19 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:40:19 【utils_get_element.py click 正在对该（('id', 'com.android.contacts:id/left_button')）元素进行单击】
+2025-07-15 22:40:19 【utils_get_element.py find_element 正在通过（id）方法，找单个（com.android.contacts:id/left_button）元素】
+2025-07-15 22:40:29 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("姓氏")')）元素进行进行输入zhang】
+2025-07-15 22:40:29 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("姓氏")）元素】
+2025-07-15 22:40:30 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("名字")')）元素进行进行输入san】
+2025-07-15 22:40:30 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("名字")）元素】
+2025-07-15 22:40:31 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电话")')）元素进行进行输入13845678911】
+2025-07-15 22:40:31 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电话")）元素】
+2025-07-15 22:40:32 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电子邮件")')）元素进行进行输入123@qq.com】
+2025-07-15 22:40:32 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电子邮件")）元素】
+2025-07-15 22:40:34 【utils_get_element.py click 正在对该（('-android uiautomator', 'new UiSelector().text("保存")')）元素进行单击】
+2025-07-15 22:40:34 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("保存")）元素】
+2025-07-15 22:40:38 【utils_get_element.py keycode 执行手机按键操作4】
+2025-07-15 22:40:38 【utils_get_element.py more_text 正在获取（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本】
+2025-07-15 22:40:38 【utils_get_element.py find_elements 正在通过（-android uiautomator）方法，找多个（new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")）元素】
+2025-07-15 22:40:39 【utils_get_element.py more_text 获取到（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本为anny jie】
+2025-07-15 22:41:47 【utils_get_data.py get_data 读取到文件数据为[{'name': 'jie', 'username': 'anny', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'anny'}, {'name': 'zhang', 'username': 'san', 'number': 13845678911, 'email': '123@qq.com', 'expect': 'san'}]】
+2025-07-15 22:42:07 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:42:07 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("姓氏")')）元素进行进行输入jie】
+2025-07-15 22:42:07 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("姓氏")）元素】
+2025-07-15 22:42:10 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("名字")')）元素进行进行输入anny】
+2025-07-15 22:42:10 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("名字")）元素】
+2025-07-15 22:42:11 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电话")')）元素进行进行输入13845678911】
+2025-07-15 22:42:11 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电话")）元素】
+2025-07-15 22:42:13 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电子邮件")')）元素进行进行输入123@qq.com】
+2025-07-15 22:42:13 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电子邮件")）元素】
+2025-07-15 22:42:15 【utils_get_element.py click 正在对该（('-android uiautomator', 'new UiSelector().text("保存")')）元素进行单击】
+2025-07-15 22:42:15 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("保存")）元素】
+2025-07-15 22:42:19 【utils_get_element.py keycode 执行手机按键操作4】
+2025-07-15 22:42:19 【utils_get_element.py more_text 正在获取（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本】
+2025-07-15 22:42:19 【utils_get_element.py find_elements 正在通过（-android uiautomator）方法，找多个（new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")）元素】
+2025-07-15 22:42:20 【utils_get_element.py more_text 获取到（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本为anny jie】
+2025-07-15 22:42:20 【utils_get_element.py touch_tag 判断x为810,y为1512,执行坐标轻敲】
+2025-07-15 22:42:21 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("姓氏")')）元素进行进行输入zhang】
+2025-07-15 22:42:21 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("姓氏")）元素】
+2025-07-15 22:42:23 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("名字")')）元素进行进行输入san】
+2025-07-15 22:42:23 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("名字")）元素】
+2025-07-15 22:42:24 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电话")')）元素进行进行输入13845678911】
+2025-07-15 22:42:24 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电话")）元素】
+2025-07-15 22:42:26 【utils_get_element.py send 正在对该（('-android uiautomator', 'new UiSelector().text("电子邮件")')）元素进行进行输入123@qq.com】
+2025-07-15 22:42:26 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("电子邮件")）元素】
+2025-07-15 22:42:27 【utils_get_element.py click 正在对该（('-android uiautomator', 'new UiSelector().text("保存")')）元素进行单击】
+2025-07-15 22:42:27 【utils_get_element.py find_element 正在通过（-android uiautomator）方法，找单个（new UiSelector().text("保存")）元素】
+2025-07-15 22:42:31 【utils_get_element.py keycode 执行手机按键操作4】
+2025-07-15 22:42:31 【utils_get_element.py more_text 正在获取（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本】
+2025-07-15 22:42:31 【utils_get_element.py find_elements 正在通过（-android uiautomator）方法，找多个（new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")）元素】
+2025-07-15 22:42:32 【utils_get_element.py more_text 获取到（('-android uiautomator', 'new UiSelector().resourceId("com.android.contacts:id/cliv_name_textview")')）元素的第0个文本为anny jie】

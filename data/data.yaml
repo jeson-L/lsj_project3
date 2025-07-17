@@ -1,0 +1,13 @@
+testcase:
+  test_data_001:
+    name: "jie"
+    username: "anny"
+    number: 13845678911
+    email: "123@qq.com"
+    expect: 'anny'
+  test_data_002:
+    name: "li"
+    username: "anny"
+    number: 13845678911
+    email: "123@qq.com"
+    expect: 'anny'
